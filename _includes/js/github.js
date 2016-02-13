@@ -37,9 +37,7 @@
 	    getRepos(username, options,
 		     function(args) {
                          if (args.message) {
-                             for (var item in args) {
-                                 elem.empty().append('<p>' + item + '</p>');
-                             }
+                             elem.empty().append('<p><small>' + args.message + '</small></p>');
                          } else {
 			     putRepos(elem, args.slice(0, {{ site.github.count }}));
                          }

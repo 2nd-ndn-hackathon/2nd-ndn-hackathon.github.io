@@ -1,17 +1,3 @@
-/* Adjust Original Styles */
-@media (max-width: {{ site.responsive_bp | minus:1 }}px) {
-    .hero-unit {
-	padding: 19px;
-    }
-    .hero-unit header h1 {
-	font-size: 40px;
-	margin: 0;
-    }
-}
-.hero-unit header h1 {
-    margin-bottom: 0.125em;
-}
-
 body {
     padding-top: 0;
     padding-bottom: 20px;
@@ -23,33 +9,43 @@ body > footer {
 form {
     margin: 0;
 }
-i {
-    background-image: none !important;
-}
 .well h1, .well h2, .well h3 {
     margin-top: 0;
 }
 
 /* title of the site */
 #header {
-    height: 80px;
+    /* height: 80px; */
 }
 #header hgroup {
-    position: absolute;
-    top: 10px;
-    left: 20px;
+    /* position: absolute; */
+    margin: 10px 10px 10px 10px;
 }
 #header h1 {
     margin: 0;
-    font-size: 1.75em;
+    font-size: 170%;
     font-weight: bold;
+}
+#header h1 .short {
+    display: none
 }
 #header h2 {
     color: #888;
     margin: 10px 0 10px 0px;
     line-height: 0.8;
-    font-size: 1.2em;
+    font-size: 110%;
     font-weight: normal;
+}
+@media screen and (max-width: 650px) {
+    #header h2 {
+        display: none;
+    }
+    #header h1 .full {
+        display: none;
+    }
+    #header h1 .short {
+        display: inline;
+    }
 }
 #header a,
 #header a:hover,
@@ -194,7 +190,7 @@ i {
 
 /* project/index.html */
 #myProject header h1 {
-    font-size: 3.0em;
+    font-size: 300%;
     margin-bottom: 0.7em;
 }
 #myCarousel p {
@@ -211,5 +207,49 @@ section ul {
 }
 
 small {
-    font-size: 9px;
+    font-size: 70%;
+}
+
+#site-title {
+    /* background-image: "../images/ndn-2nd-hackathon-small.jpg"; */
+}
+
+@media print {
+    body {
+        font-size: 12px;
+    }
+
+    .h6 .small {
+        font-size: 75%;
+    }
+    h1,
+    .h1 {
+        font-size: 200%;
+    }
+    h2,
+    .h2 {
+        font-size: 180%;
+    }
+    h3,
+    .h3 {
+        font-size: 150%;
+    }
+    h4,
+    .h4 {
+        font-size: 120%;
+    }
+    h5,
+    .h5 {
+        font-size: 100%;
+    }
+    h6,
+    .h6 {
+        font-size: 80%;
+    }
+    blockquote, pre {
+        font-size: 100%;
+    }
+    legend {
+        font-size: 200%;
+    }
 }
