@@ -17,14 +17,15 @@ Proposals should be submitted via email to [2nd-ndn-hackathon@named-data.net](ma
 
 The submissions should include:
 
-- 1 page description PDF, including contact information about submitters and project leader(s), problem statement, approach, contribution to NDN, planned tasks to accomplish, knowledge requirements, and what is expected outcome by the end of the hackathon
+- 1 page description **PDF**, including contact information about submitters and project leader(s), problem statement, approach, contribution to NDN, planned tasks to accomplish, knowledge requirements, and what is expected outcome by the end of the hackathon
 
-- 1 or 2 PPTx slides, listing the project leader(s) and summarizing the problem, contribution, tasks, required knowledge, and expected outcome
+- 1 or 2 **PPTx** slides, listing the project leader(s) and summarizing the problem, contribution, tasks, required knowledge, and expected outcome
 
 All the submitted proposals will be reviewed by the Hacking Committee.  If accepted, the project leader is expected to give a 5 minute “pitch” presentation in the beginning of the Hackathon, soliciting participation from the Hackathon attendees.
 
 Projects will be judged by a panel for the "Best of Hackathon" prize. We hope that the hackathon will be a fun event for all and that projects will lead to collaborations extending beyond the Hackathon.
 
+Please use the submission templates: [LaTeX]({{ site.baseurl }}/assets/ndn-hackathon-template.tex) (or [docx]({{ site.baseurl }}/assets/ndn-hackathon-template.docx)), [PPTx]({{ site.baseurl }}/assets/ndn-hackathon-template.pptx)
 
 ## Additional information
 
