@@ -2,19 +2,18 @@
 layout: page
 title: Call for Hacks
 ---
+NDN Team is organizing the 2nd NDN Hackathon on March 21-22, 2016 at UC San Diego Campus in La Jolla, CA. We solicit hack proposals that advance the state of NDN. Participants will have approximately 12 hours to work on the projects.
 
-NDN Team is organizing the 2nd NDN Hackathon on March 21-22, 2016 on San Diego Campus in La Jolla, CA.  We solicit hack proposals that advance the state of NDN.
+We are looking for projects that belong to any of the following categories:
 
-We are looking for projects that will:
-- directly address a research need,
-- create new NDN tools or modify existing tools
-- create or improve documentation and how-to guides.
+ - directly address NDN research needs,
+ - create new NDN tools or modify existing tools
+ - create or improve documentation and how-to guides.
 
-Participants will have approximately **12 hours** to work on the projects. 
 
 ## Submission guidelines
 
-Proposals should be submitted via email to [2nd-ndn-hackathon@named-data.net](mailto:2nd-ndn-hackathon@named-data.net?subject=[Hackathon%20Submission])
+Proposals should be submitted via email to [2nd-ndn-hackathon@named-data.net](mailto:2nd-ndn-hackathon@named-data.net?subject=[2nd%20NDN%20Hackathon%20Submission])
 
 The submissions should include:
 
@@ -22,9 +21,9 @@ The submissions should include:
 
 - 1 or 2 PPTx slides, listing the project leader(s) and summarizing the problem, contribution, tasks, required knowledge, and expected outcome
 
-All the submitted proposals will be reviewed by the Hacking Committee.  If accepted, the project leader is expected to give a 5 minute “pitch” presentation in the beginning of the Hackathon, soliciting participation from the Hackathon participants.
+All the submitted proposals will be reviewed by the Hacking Committee.  If accepted, the project leader is expected to give a 5 minute “pitch” presentation in the beginning of the Hackathon, soliciting participation from the Hackathon attendees.
 
-Projects will be judged by a panel for the “Best of Hackathon” prize. We hope that the hackathon will be a fun event for all and that projects will lead to collaborations extending beyond NDNcomm.
+Projects will be judged by a panel for the "Best of Hackathon" prize. We hope that the hackathon will be a fun event for all and that projects will lead to collaborations extending beyond the Hackathon.
 
 
 ## Additional information
