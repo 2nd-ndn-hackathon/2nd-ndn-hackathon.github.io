@@ -18,4 +18,4 @@ We are looking for projects that belong to any of the following categories:
 ## Sponsors
 
 - [NDN Consortium](http://named-data.net/consortium/)
-- TBD
+- Facilities provided by [CAIDA](http://www.caida.org) at the [San Diego Supercomputer Center](http://www.sdsc.edu) at [UC San Diego in La Jolla](http://www.ucsd.edu)
