@@ -13,6 +13,7 @@ We encourage projects that:
 
 ## News:
 
+- March 5, 2016: Preliminary program posted
 - February 12, 2016: The hackathon website is up
 
 ## Sponsors
