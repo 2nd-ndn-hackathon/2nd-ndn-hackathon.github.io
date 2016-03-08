@@ -2,7 +2,11 @@
  <h3><i class="fa fa-calendar"></i>&nbsp;Important Dates</h3>
 <ul id="deadlines" class="nav nav-list">
 {% for node in site.deadlines %}
-  <li><p>{{ node.name }}:&nbsp;<b>{{ node.date }}</b></p></li>
+  <li><p>{{ node.name }}:
+  {% for date in node.date %}
+  <br/><b style="margin-left: 20px">{{ date }}</b>
+  {% endfor %}
+  </p></li>
 {% endfor %}
 </ul>
 </section>

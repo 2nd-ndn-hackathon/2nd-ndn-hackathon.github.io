@@ -14,7 +14,9 @@ baseurl:
 
 deadlines:
 - name: Submission deadline
-  date: March 6, 2016
+  date:
+  - <del>March 6, 2016</del>
+  - March 10, 2016
 - name: Acceptance notification
   date: March 13, 2016
 
