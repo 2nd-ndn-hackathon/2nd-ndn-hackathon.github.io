@@ -14,3 +14,5 @@ title: Committees
 - Vince Lenhman (University of Memphis)
 - Eric Newberry (University of Arizona)
 - Wentao Shang (University of California, Los Angeles)
+- Hila Ben Abraham (Washington University in St. Louis)
+- Peter Gusev (REMAP / University of California, Los Angeles)

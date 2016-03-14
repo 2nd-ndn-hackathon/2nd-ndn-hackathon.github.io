@@ -14,7 +14,9 @@ baseurl:
 
 deadlines:
 - name: Submission deadline
-  date: March 6, 2016
+  date:
+  - <del>March 6, 2016</del>
+  - March 10, 2016
 - name: Acceptance notification
   date: March 13, 2016
 
@@ -24,7 +26,7 @@ permalink: /:page.html
 # Configuration for site
 title: 2nd Named Data Networking (NDN) Hackathon
 short_title: 2nd NDN Hackathon
-description: March 21-22, 2016, UC San Diego Campus, La Jolla, CA
+description: March 20-21, 2016, UC San Diego Campus, La Jolla, CA
 author: 2nd NDN Hackathon Organizing Committee
 email: 2nd-ndn-hackathon@named-data.net
 
@@ -40,7 +42,7 @@ navbar_list:
   link: /
 - name: Call for Hack Proposals
   link: /cfh.html
-- name: Committes
+- name: Committees
   link: /committees.html
 - name: Program
   link: /program.html

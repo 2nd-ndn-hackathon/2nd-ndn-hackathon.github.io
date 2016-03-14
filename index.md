@@ -3,21 +3,21 @@ layout: page
 title: Welcome to 2nd NDN Hackathon
 ---
 
-NDN Team is organizing the 2nd NDN Hackathon on March 21-22, 2016 at UC San Diego Campus in La Jolla, CA.  We solicit hack proposals that advance the state of NDN.  Participants will have approximately **12 hours** to work on the projects. 
+The NDN Team is organizing our 2nd NDN Hackathon to be held on March 20-21, 2016 on the UC San Diego Campus in La Jolla, CA.  We solicit Hackathon project proposals that advance the state of NDN.  Participants will have approximately **12 hours** to work on the projects. 
 
-We are looking for projects that belong to any of the following categories:
+We encourage projects that:
 
- - directly address a NDN research need,
- - create new NDN tools or modify existing tools
+ - directly address NDN research needs,
+ - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
-
-
 
 ## News:
 
+- March 7, 2016: Submission deadline extended till March 10, 2016
+- March 5, 2016: Preliminary program posted
 - February 12, 2016: The hackathon website is up
 
 ## Sponsors
 
 - [NDN Consortium](http://named-data.net/consortium/)
-- TBD
+- Facilities provided by [CAIDA](http://www.caida.org) at the [San Diego Supercomputer Center](http://www.sdsc.edu) at [UC San Diego in La Jolla](http://www.ucsd.edu)

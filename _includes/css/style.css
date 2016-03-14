@@ -214,6 +214,10 @@ small {
     /* background-image: "../images/ndn-2nd-hackathon-small.jpg"; */
 }
 
+.program tbody tr :first-child {
+    width: 200px;
+}
+
 @media print {
     body {
         font-size: 12px;
