@@ -3,7 +3,7 @@ layout: page
 title: Accepted Hacks for 2nd NDN Hackthon
 ---
 
-These are the accepted proposals for the 2nd NDN Hackathon. The retreat attendees will pick a proposals to work on at the begenning of the Hackathon. After voting, proposals with only one participant would be removed from accepted projects and the participant will have to pick another project.
+These are the accepted proposals for the 2nd NDN Hackathon. Attendees will pick a proposals to work on at the begenning of the Hackathon. After voting, proposals with only one participant will be removed and the participant will be able pick another project.
 
 
 1. [Logging Facility in ndn-cxx  by Junxiao Shi](https://www.dropbox.com/s/huac1by1zze18f0/logging.pptx?dl=0)
@@ -19,6 +19,8 @@ These are the accepted proposals for the 2nd NDN Hackathon. The retreat attendee
 6. [OSX Binary Release with NFD Control Center by Alex Afanasyev, Yingdi Yu](https://www.dropbox.com/s/lc6zln3ty5ptm1q/ndn-hackathon-osx-binary-release.pptx?dl=0)
 
 7. [NFD-android auto-configuration by Haitao Zhang](https://www.dropbox.com/s/2y8qp72czzkhxc5/NFD-android%20auto-configuration.pptx?dl=0)
+
+8. [NDNFit-NFN integration by Haitao Zhang](https://www.dropbox.com/s/lwzclkd24x22cae/NDNFit%20-%20NFN%20integration.pptx?dl=0)
 
 
 	

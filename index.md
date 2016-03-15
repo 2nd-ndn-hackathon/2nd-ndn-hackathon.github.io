@@ -12,7 +12,7 @@ We encourage projects that:
  - create or improve documentation and how-to guides.
 
 ## News:
-
+- March 14, 2016: Accepted hackathon [projects](accepted_hacks.html) are posted
 - March 7, 2016: Submission deadline extended till March 10, 2016
 - March 5, 2016: Preliminary program posted
 - February 12, 2016: The hackathon website is up
