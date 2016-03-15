@@ -11,7 +11,7 @@ title: Committees
 ## Hacking Committee
 
 - Davide Pesavento (LIP6 / University Pierre & Marie Curie, Sorbonne University)
-- Vince Lenhman (University of Memphis)
+- Vince Lehman (University of Memphis)
 - Eric Newberry (University of Arizona)
 - Wentao Shang (University of California, Los Angeles)
 - Hila Ben Abraham (Washington University in St. Louis)

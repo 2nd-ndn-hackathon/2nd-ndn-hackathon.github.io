@@ -46,6 +46,8 @@ navbar_list:
   link: /committees.html
 - name: Program
   link: /program.html
+- name: Hackathon Projects
+  link: /accepted_hacks.html
 - name: Participant Guide
   link: /guide.html
 
