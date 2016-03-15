@@ -5,11 +5,10 @@ title: 2nd NDN Hackathon Participant Guide
 
 ### Action Items BEFORE the Hackathon
 
-Please email your GitHub ID to 2nd-ndn-hackathon@named-data.net
+Please email your GitHub ID to 2nd-ndn-hackathon@named-data.net.  We will create a GitHub repository
+for your project under the [hackathon organization](https://github.com/2nd-ndn-hackathon).
 
 ### Action Items DURING the Hackathon
-
-- Create a [GitHub](https://github.com) repository
 
 - Connect [Gitter](https://www.gitter.im/) to your repository
 
@@ -24,7 +23,8 @@ Please email your GitHub ID to 2nd-ndn-hackathon@named-data.net
 
 - Create web page explaining project at `2nd-ndn-hackathon.named-data.net/<project-name>` using [GitHub Pages](https://pages.github.com/).
 
-    Include:  
+    Include:
+
     - team members
     - problem statement(s)
     - approach(es)
