@@ -5,15 +5,18 @@ title: 2nd NDN Hackathon Participant Guide
 
 ### Action Items BEFORE the Hackathon
 
-Please email your GitHub ID to 2nd-ndn-hackathon@named-data.net.  We will create a GitHub repository
+- Please email your GitHub ID to 2nd-ndn-hackathon@named-data.net.  We will create a GitHub repository
 for your project under the [hackathon organization](https://github.com/2nd-ndn-hackathon).
 
-### Action Items DURING the Hackathon
 
 - Connect [Gitter](https://www.gitter.im/) to your repository
 
     Gitter is a chatroom that can be associated with your GitHub repository. This should help you and
     your team share information. Gitter has a number of nice features like GitHub markdown support.
+
+- Create web page explaining project at `2nd-ndn-hackathon.named-data.net/<project-name>` using [GitHub Pages](https://pages.github.com/).
+
+### Action Items DURING the Hackathon
 
 - **Hack!**
 
@@ -21,9 +24,9 @@ for your project under the [hackathon organization](https://github.com/2nd-ndn-h
 
     Note that documentation and tutorial projects should include running example code.
 
-- Create web page explaining project at `2nd-ndn-hackathon.named-data.net/<project-name>` using [GitHub Pages](https://pages.github.com/).
+- Update your web page
 
-    Include:
+Include:
 
     - team members
     - problem statement(s)
@@ -33,6 +36,8 @@ for your project under the [hackathon organization](https://github.com/2nd-ndn-h
 
     Documentation projects should describe the initial state, what kinds changes were made
     (e.g. how-tos guides, enhanced code comments, improved developer guides, etc.).
+
+
 
 - Present your project to the panel of judges
 
