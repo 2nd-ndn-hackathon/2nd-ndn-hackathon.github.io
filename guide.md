@@ -26,7 +26,7 @@ for your project under the [hackathon organization](https://github.com/2nd-ndn-h
 
 - Update your web page
 
-Include:
+    Include:
 
     - team members
     - problem statement(s)
@@ -35,9 +35,7 @@ Include:
     - future TODOs, and opportunities for future collaboration.
 
     Documentation projects should describe the initial state, what kinds changes were made
-    (e.g. how-tos guides, enhanced code comments, improved developer guides, etc.).
-
-
+    (e.g., how-tos guides, enhanced code comments, improved developer guides, etc.).
 
 - Present your project to the panel of judges
 
