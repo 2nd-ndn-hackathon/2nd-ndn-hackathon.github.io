@@ -35,6 +35,7 @@ led by Alex Afanasyev, Yingdi Yu
 
     {% image preview IMG_0438.jpg %}
     {% image preview IMG_0456.jpg %}
+    {% image preview 2016-03-21.jpg %}
 
 7. [NFD-android auto-configuration](https://www.dropbox.com/s/2y8qp72czzkhxc5/NFD-android%20auto-configuration.pptx?dl=0)
 led by Haitao Zhang
