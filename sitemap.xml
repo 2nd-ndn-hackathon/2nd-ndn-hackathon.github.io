@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!--  Homepage -->
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/</loc>
+    <lastmod>2016-03-20</lastmod>
+    <changefreq>daily</changefreq>
+		<priority>1.0</priority>
+  </url>
+  <!-- Posts pages -->
+  
+  <!-- Static pages -->
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/accepted_hacks</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/cfh</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/committees</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/guide</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://2nd-ndn-hackathon.named-data.net/program</loc>
+    
+    <lastmod>2016-03-20</lastmod>
+    
+    
+    
+  </url>
+  
+
+</urlset>
