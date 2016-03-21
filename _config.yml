@@ -94,3 +94,12 @@ github:
 # pocket: true
 
 # hatena: true
+
+image:
+  source: assets/photos
+  output: generated
+  presets:
+    preview:
+      width: 300
+    large:
+      width: 800
