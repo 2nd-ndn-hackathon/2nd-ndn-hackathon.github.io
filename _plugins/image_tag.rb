@@ -29,7 +29,6 @@ module Jekyll
     end
 
     def render(context)
-
       # Render any liquid variables in tag arguments and unescape template code
       render_markup = Liquid::Template.parse(@markup).render(context).gsub(/\\\{\\\{|\\\{\\%/, '\{\{' => '{{', '\{\%' => '{%')
 
@@ -93,9 +92,15 @@ module Jekyll
         return
       end
 
+      x = site.baseurl + "/" + settings['source'] + "/" + markup[:image_src]
+
       generated_src = File.join(site.baseurl, generated_src) unless site.baseurl.empty?
       # Return the markup!
-      "<img src=\"#{generated_src}\" #{html_attr_string}>"
+      if markup[:preset] != "preview"
+        "<img src=\"#{generated_src}\" #{html_attr_string}>"
+      else
+        "<a href=\"#{x}\" data-lightbox=\"x\"><img src=\"#{generated_src}\" #{html_attr_string}></a>"
+      end
     end
 
     def generate_image(instance, site_source, site_dest, image_source, image_dest)
