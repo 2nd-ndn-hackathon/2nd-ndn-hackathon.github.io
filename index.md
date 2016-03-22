@@ -11,6 +11,55 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
+## Hackathon Champions
+
+### Best Newcomer Project
+
+<div class="alert alert-success" markdown="block">
+<i class="glyphicon glyphicon-thumbs-up"></i> **NFD-android auto-configuration**
+
+- Pedro Soares (Universidade Fedara de Para - UFPA, Brasil)
+- Pedro Batista (Universidade Fedara de Para - UFPA, Brasil)
+
+* * *
+
+{% image preview IMG_0440.jpg %}
+{% image preview IMG_0449.jpg %}
+</div>
+
+### Best External Impact
+
+<div class="alert alert-success" markdown="block">
+
+<i class="glyphicon glyphicon-thumbs-up"></i> [**Micro forwarder Firefox add-on**](http://2nd-ndn-hackathon.named-data.net/firefox-micro-forwarder)
+
+- Jeff Thompson (University of California, Los Angeles)
+- Wentao Shang (University of California, Los Angeles)
+- Muktadir Chowdhury (University of Memphis)
+
+* * *
+
+{% image preview IMG_0442.jpg %}
+{% image preview IMG_0451.jpg %}
+{% image preview IMG_0457.jpg %}
+{% image preview IMG_0463.jpg %}
+</div>
+
+### Best Internal Impact
+
+<div class="alert alert-success" markdown="block">
+
+<i class="glyphicon glyphicon-thumbs-up"></i> [**Mini-NDN Real-time Interaction GUI**](http://2nd-ndn-hackathon.named-data.net/mini-ndn-metrics/) 
+
+- Vince Lehman (University of Memphis)
+- Andrea Tosatto (LIP6, University Pierre & Marie Curie, Paris, France)
+
+* * *
+
+{% image preview project-mini-ndn.jpg %}
+{% image preview IMG_0450.jpg %}
+</div>
+
 ## Hacking in progress
 
 ### Day 1
@@ -22,6 +71,7 @@ We encourage projects that:
 {% image large day2.jpg style="width:80%" %}
 
 ## News:
+- March 21, 2016: Hackathon concluded and champions announced
 - March 14, 2016: Accepted [hackathon projects](accepted_hacks.html) are posted
 - March 7, 2016: Submission deadline extended till March 10, 2016
 - March 5, 2016: Preliminary program posted
