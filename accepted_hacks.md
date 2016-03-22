@@ -62,7 +62,7 @@ led by Chengyu Fan</del>
 
 9. [NDN-RTC congestion control](http://2nd-ndn-hackathon.github.io/ndn-rtc-congestion-control)
 
-    Klaus Sheinder (University of Arizona), Hila Abraham (Washington University of St. Loius), Giulio Grassi (University of Pierre et Marie Curie), Chengyu Fan (Colorado State University), Peter Gusev (REMAP)
+    Klaus Schneider (University of Arizona), Hila Abraham (Washington University of St. Loius), Giulio Grassi (University of Pierre et Marie Curie), Chengyu Fan (Colorado State University), Peter Gusev (REMAP)
 
     {% image preview IMG_0443.jpg %}
     {% image preview IMG_0452.jpg %}
